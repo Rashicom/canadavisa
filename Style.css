@@ -256,4 +256,55 @@ align-items: center;
     width: 100%;
     height: 300 px;
 }
+.contact{
+    background-color: #343a40   ;
+    padding-left:120px ;
+    padding-right: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.contact1 ul{
+    list-style-type: none;
+    padding: 0;
+    
+    
+}
+.contact ul li a{
+    color: rgb(190, 190, 190);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.contact ul li{
+    margin: 8px;
+}
+.contact h3{
+    color: white;
+}
+
+.contact3 h4{
+    color: #337ab7;
+}
+.contact p{
+    color: white;
+    margin: 5px;
+    margin-top: 30px;
+}
+.contact3 input{
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid #b6b6b6;
+
+}
+.contact3 button{
+    height: 36px;
+    width: 80px;
+    color: white;
+    background-color: #4984b8;
+    border: 1px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
 
