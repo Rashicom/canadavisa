@@ -306,5 +306,29 @@ align-items: center;
     border-radius: 3px;
     cursor: pointer;
 }
+.footer{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+}
+.leftfooter p{
+    color: white;
+}
+.rightfoot ul li{
+    margin: 5px;
+}
+.rightfoot ul{
+    list-style-type: none;
+    display: flex;
+
+}
+.rightfoot ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    color: white;
+}
 
 
